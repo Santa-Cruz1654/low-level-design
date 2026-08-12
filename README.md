@@ -6,26 +6,29 @@ This repository is part of my journey to understand object-oriented design, SOLI
 
 ## LLD Problems
 
-| #  | Problem         | Concepts                                                    |
-| -- | --------------- | ----------------------------------------------------------- |
-| 01 | Document Editor | OOP, SOLID, Abstraction, Polymorphism, Dependency Injection |
+| # | Problem | Concepts |
+|---|---|---|
+| 01 | [Document Editor](./01-document-editor) | OOP, SOLID, Abstraction, Polymorphism, Dependency Injection |
+| 02 | [Online Food Ordering System](./02-online-food-ordering-system) | OOP, SOLID, Singleton, Factory Method, Strategy, Facade, UML Modeling |
+
+Each problem includes the implementation, a design explanation, and lessons learned.
 
 ## Learning Goals
 
-* Object-Oriented Programming
-* SOLID Principles
-* Abstraction and Encapsulation
-* Inheritance and Polymorphism
-* Composition
-* Dependency Injection
-* Design Patterns
-* Clean Code
-* Testable and extensible designs
-* LLD interview preparation
+- Object-Oriented Programming
+- SOLID Principles
+- Abstraction and Encapsulation
+- Inheritance and Polymorphism
+- Composition and Aggregation
+- Dependency Injection
+- Design Patterns (Creational, Structural, Behavioral)
+- Clean Code
+- Testable and extensible designs
+- LLD interview preparation
 
 ## Progress
 
-    1.Document Editor
+1. Document Editor
+2. Online Food Ordering System
 
-
-Each problem will include the implementation, design explanation, and lessons learned.
+More problems will be added as I work through them.
