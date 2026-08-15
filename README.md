@@ -9,7 +9,7 @@ This repository is part of my journey to understand object-oriented design, SOLI
 | # | Problem | Concepts |
 |---|---|---|
 | 01 | [Document Editor](./01-document-editor) | OOP, SOLID, Abstraction, Polymorphism, Dependency Injection |
-| 02 | [Online Food Ordering System](./02-online-food-ordering-system) | OOP, SOLID, Singleton, Factory Method, Strategy, Facade, UML Modeling |
+| 02 | [Music Player](./02-music-player) | OOP, SOLID, Strategy, Adapter, Factory, Singleton, Facade, Composition |
 
 Each problem includes the implementation, a design explanation, and lessons learned.
 
@@ -29,6 +29,6 @@ Each problem includes the implementation, a design explanation, and lessons lear
 ## Progress
 
 1. Document Editor
-2. Online Food Ordering System
+2. Music Player
 
 More problems will be added as I work through them.
